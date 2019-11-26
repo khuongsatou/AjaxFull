@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 269px;
+        }
+    </style>
+</head>
+<body>
+    <table style="width: 100%;">
+        <tr>
+            <td class="auto-style1">Name</td>
+            <td>
+                <input id="txt_name" type="text" />
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td class="auto-style1">Phone</td>
+            <td>
+                <input id="txt_phone" type="text" />
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td class="auto-style1">Email</td>
+            <td>
+                <input id="txt_email" type="text" />
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td class="auto-style1">Address</td>
+            <td>
+                <input id="txt_address" type="text" />
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td class="auto-style1">&nbsp;</td>
+            <td>
+                <input id="btnAdd" type="submit" value="Add" />
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#btnAdd").click(function () {
+                var name = $('#txt_name').val();
+                var phone = $('#txt_phone').val();
+                var email = $('#txt_email').val();
+                var address = $('#txt_address').val();
+                if (name == "" || phone == "" || email == "" || address == "") {
+                    alert("Please enter all the fields");
+                    return false;
+                }
+                $.ajax({
+                    type: "POST",
+                    contentType: "application/json",
+                    url: "Fun.aspx/SaveData",
+                    data: "{'name':'" + name + "','phone':'" + phone + "', 'email': '" + email + "', 'address':'" + address +"'}",
+                    datatype: "json",
+                    success: function (data) {
+                        //Show_data();
+                        alert("Submit Successfully");
+                        //ClearField();
+                    },
+                    error: function (response) {
+                        alert(response.d+"Có Lỗi");
+                    }
+
+                });
+            });
+        });
+    </script>
+</body>
+</html>
