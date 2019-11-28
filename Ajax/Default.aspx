@@ -64,6 +64,7 @@
                 $.ajax({
                     type: "POST",
                     contentType: "application/json",
+                    // Thành công. vì gọi chính nó
                     url: "Default.aspx/SaveData",
                     data: "{'name':'" + name + "','phone':'" + phone + "', 'email': '" + email + "', 'address':'" + address + "'}",
                     datatype: "json",

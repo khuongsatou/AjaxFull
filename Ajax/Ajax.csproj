@@ -68,7 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AddClass.aspx" />
+    <Content Include="ContentAJAX.html" />
     <Content Include="Default.aspx" />
+    <Content Include="DefaultAjaxBasic.aspx" />
     <Content Include="demo1.html" />
     <Content Include="demo2.html" />
     <Content Include="demo3.html" />
@@ -95,6 +97,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DefaultAjaxBasic.aspx.cs">
+      <DependentUpon>DefaultAjaxBasic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DefaultAjaxBasic.aspx.designer.cs">
+      <DependentUpon>DefaultAjaxBasic.aspx</DependentUpon>
     </Compile>
     <Compile Include="Fun.aspx.cs">
       <DependentUpon>Fun.aspx</DependentUpon>
