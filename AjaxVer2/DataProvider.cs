@@ -43,6 +43,22 @@ namespace AjaxVer2
             return dt;
         }
 
+        public static int ExecuteNonQuery(string sQuery)
+        {
+            int rowSuccess = 0;
+            try
+            {
+                connect();
+                SqlCommand cmd = new SqlCommand(sQuery, conn);
+                rowSuccess = cmd.ExecuteNonQuery();
+                conn.Close();
+            }
+            catch (Exception)
+            {
+                return 0;
+            }
+            return rowSuccess;
+        }
 
     }
 }

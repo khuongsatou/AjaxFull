@@ -24,6 +24,19 @@ namespace AjaxVer2
         public int MaL { get => _maL; set => _maL = value; }
         public string TenLoai { get => _tenLoai; set => _tenLoai = value; }
 
+        public static bool insert(LOAiSP l)
+        {
+            string sQuery =string.Format("INSERT INTO [dbo].[LoaiSP] ([TenLoai]) VALUES ('{0}')",l.TenLoai);
+
+            return DataProvider.ExecuteNonQuery(sQuery) > 0;
+        }
+
+        public static DataTable search(string tenloai)
+        {
+            string sQuery ="SELECT * FROM LoaiSP WHERE TenLoai like '%"+ tenloai + "%'";
+            return DataProvider.ExecuteQuery(sQuery);
+        }
+
 
         public static DataTable getList()
         {
