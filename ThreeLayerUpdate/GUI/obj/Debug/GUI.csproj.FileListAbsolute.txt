@@ -1,0 +1,120 @@
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\GUI.dll.config
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\GUI.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\GUI.pdb
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\csc.exe
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\csc.exe.config
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\csc.rsp
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\csi.exe
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\csi.rsp
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\System.AppContext.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\System.IO.FileSystem.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\vbc.exe
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\vbc.exe.config
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\vbc.rsp
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\VBCSCompiler.exe
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\BUS.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\DTO.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\DAO.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\BUS.pdb
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\DTO.pdb
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\bin\DAO.pdb
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\obj\Debug\GUI.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\GUI\obj\Debug\GUI.pdb
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\GUI.dll.config
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\GUI.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\GUI.pdb
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\csc.exe
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\csc.exe.config
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\csc.rsp
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\csi.exe
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\csi.rsp
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.AppContext.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\vbc.exe
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\vbc.exe.config
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\vbc.rsp
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\VBCSCompiler.exe
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\BUS.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\DTO.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\DAO.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\BUS.pdb
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\DTO.pdb
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP-tuan6-ontap\Buoi 6\GUI\bin\DAO.pdb
+D:\ASP-tuan6-ontap\Buoi 6\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\ASP-tuan6-ontap\Buoi 6\GUI\obj\Debug\GUI.dll
+D:\ASP-tuan6-ontap\Buoi 6\GUI\obj\Debug\GUI.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\GUI.dll.config
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\GUI.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\GUI.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\csc.exe
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\csc.exe.config
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\csc.rsp
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\csi.exe
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\csi.rsp
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.AppContext.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.IO.FileSystem.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\vbc.exe
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\vbc.exe.config
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\vbc.rsp
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\VBCSCompiler.exe
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\BUS.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\DTO.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\DAO.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\BUS.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\DTO.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\bin\DAO.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\obj\Debug\GUI.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\GUI\obj\Debug\GUI.pdb

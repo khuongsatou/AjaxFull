@@ -1,0 +1,27 @@
+D:\TH LTWeb\Buoi 6\Buoi 6\BUS\bin\Debug\BUS.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\BUS\bin\Debug\BUS.pdb
+D:\TH LTWeb\Buoi 6\Buoi 6\BUS\bin\Debug\DAO.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\BUS\bin\Debug\DTO.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\BUS\bin\Debug\DAO.pdb
+D:\TH LTWeb\Buoi 6\Buoi 6\BUS\bin\Debug\DTO.pdb
+D:\TH LTWeb\Buoi 6\Buoi 6\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\TH LTWeb\Buoi 6\Buoi 6\BUS\obj\Debug\BUS.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\BUS\obj\Debug\BUS.pdb
+D:\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\BUS.dll
+D:\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\BUS.pdb
+D:\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\DAO.dll
+D:\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\DTO.dll
+D:\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\DAO.pdb
+D:\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\DTO.pdb
+D:\ASP-tuan6-ontap\Buoi 6\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\ASP-tuan6-ontap\Buoi 6\BUS\obj\Debug\BUS.dll
+D:\ASP-tuan6-ontap\Buoi 6\BUS\obj\Debug\BUS.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\BUS.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\BUS.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\DAO.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\DTO.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\DAO.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\BUS\bin\Debug\DTO.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\BUS\obj\Debug\BUS.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\BUS\obj\Debug\BUS.pdb

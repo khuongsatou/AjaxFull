@@ -1,0 +1,15 @@
+D:\TH LTWeb\Buoi 6\Buoi 6\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\TH LTWeb\Buoi 6\Buoi 6\DTO\bin\Debug\DTO.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\DTO\bin\Debug\DTO.pdb
+D:\TH LTWeb\Buoi 6\Buoi 6\DTO\obj\Debug\DTO.dll
+D:\TH LTWeb\Buoi 6\Buoi 6\DTO\obj\Debug\DTO.pdb
+D:\ASP-tuan6-ontap\Buoi 6\DTO\bin\Debug\DTO.dll
+D:\ASP-tuan6-ontap\Buoi 6\DTO\bin\Debug\DTO.pdb
+D:\ASP-tuan6-ontap\Buoi 6\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\ASP-tuan6-ontap\Buoi 6\DTO\obj\Debug\DTO.dll
+D:\ASP-tuan6-ontap\Buoi 6\DTO\obj\Debug\DTO.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\DTO\bin\Debug\DTO.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\DTO\bin\Debug\DTO.pdb
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\DTO\obj\Debug\DTO.dll
+D:\TH LTWeb\ASP-tuan6-ontap\Buoi 6\DTO\obj\Debug\DTO.pdb

@@ -13,7 +13,7 @@ namespace AjaxVer2
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Response.Write("abc");
         }
 
         [WebMethod]
@@ -55,20 +55,29 @@ namespace AjaxVer2
             return ls.ToArray();
         }
 
-        //[WebMethod]
-        //public static LOAiSP[] Paging()
-        //{
-        //    DataTable dt = LOAiSP.getList();
-        //    List<LOAiSP> ls = new List<LOAiSP>();
-        //    foreach (DataRow r in dt.Rows)
-        //    {
-        //        LOAiSP l = new LOAiSP();
-        //        l.MaL = Convert.ToInt32(r["MaL"]);
-        //        l.TenLoai = r["TenLoai"].ToString();
-        //        ls.Add(l);
-        //    }
-        //    return ls.ToArray();
-        //}
+      
+        [WebMethod]
+        public static LOAiSP[] Paging()
+        {
+            DataTable dt = LOAiSP.getList();
+            int so_item_1trang = 3;
+            int so_trang = dt.Rows.Count / so_item_1trang + (dt.Rows.Count % so_item_1trang == 0 ? 0 : 1);
+            int page = 0;
+            //int page = 0;
+            int from = (page - 1) * 3;
+            int to = page * 3 - 1;
+
+
+            List<LOAiSP> ls = new List<LOAiSP>();
+            foreach (DataRow r in dt.Rows)
+            {
+                LOAiSP l = new LOAiSP();
+                l.MaL = Convert.ToInt32(r["MaL"]);
+                l.TenLoai = r["TenLoai"].ToString();
+                ls.Add(l);
+            }
+            return ls.ToArray();
+        }
 
     }
 }

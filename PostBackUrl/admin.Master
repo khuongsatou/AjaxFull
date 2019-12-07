@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.Master.cs" Inherits="PostBackUrl.admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <h1>MasterPage</h1>
+            <asp:ContentPlaceHolder ID="contentPage" runat="server">
+
+            </asp:ContentPlaceHolder>
+            <a href='<%= Page.ResolveUrl("~/") %>Admin/DefaultDS.aspx'>
+                LINK 1
+            </a>
+            <a href='<%= Page.ResolveUrl("~/") %>Admin/DefaultThem.aspx'>
+                LINK 2
+            </a>
+        </div>
+    </form>
+</body>
+</html>

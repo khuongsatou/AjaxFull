@@ -16,7 +16,7 @@
             <%--<asp:TextBox ValidationGroup="i"  ID="txtName" runat="server"></asp:TextBox>
             <asp:Button ValidationGroup="i" ID="btnInsert" runat="server" Text="Insert" OnClientClick="InsertAll();return false;" />
             <br />
-            <asp:Button ValidationGroup="s" ID="btnSelect" runat="server" Text="Select" OnClientClick="selectALL();return false;" />--%>
+            <asp:Button ValidationGroup="s" ID="btnSelect" runat="server" Text="Select" OnClientClick="SelectALL();return false;" />--%>
             <br />
              <asp:TextBox ValidationGroup="ser"  ID="txtSearch" runat="server"></asp:TextBox><br />
              <asp:Button ValidationGroup="ser" ID="btnSearch" runat="server" Text="Search" OnClientClick="SearchAll();return false;" />
@@ -41,9 +41,7 @@
                     }
                 });
             }
-
-
-            function selectALL() {
+            function SelectALL() {
 
                 $.ajax({
                     type: 'post',
